@@ -1,0 +1,6 @@
+data/
+.DS_Store
+# Vensim이 저장 · 열기 때 만드는 사본과 작업 파일
+*.2mdl
+*.3vmfx
+*.vdfx
